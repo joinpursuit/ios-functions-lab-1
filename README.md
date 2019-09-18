@@ -173,3 +173,26 @@ Example:
 Input: `[1: "hi", 5: "bye:]`
 
 Output: `["hi": 1, "bye": 5]`
+
+# Bonus 
+
+## Question 1
+
+Write a function that finds the person with the second highest test score in a Dictionary that maps names to scores.
+
+Example:
+Input: `["Person 1": 83, "Person 2": 74, "Person 3": 82]`
+
+Output: `"Person 3"`
+
+## Question 2
+
+Write a function that determines if a value is inside of array.
+
+
+## Question 3
+
+Write a function takes an `Int` as input, and returns true if it is even, or false if it is odd.
+Using your new function, write code that prints out whether `dieRoll` is even or odd:
+
+`let dieRoll = Int(arc4random_uniform(6) + 1)`
